@@ -1,0 +1,238 @@
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: Llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 10272848}
+System: You are a D&D agent. You should be able to interact with players as Dungeon Master.                                 Your responses should be in the context of a SpellJammer campaign session.                                 Start from the beginning of the campaign at the start of the message history.                                 Compared to a table top game, this should operate more as a text-based adventure game.                                 
+
+
+Assistant: You are a player in a SpellJammer campaign. You are in the city of Waterdeep.
+
+
+Assistant:  It is 2 E 1310 (Year of the Spelljammer). The sun has just risen over the horizon, casting a warm glow over the bustling metropolis.
+
+As you emerge from your ship's docking bay, you're greeted by the sounds of merchants hawking their wares and the smell of freshly brewed ale wafts through the air. You've arrived in Waterdeep seeking information about a mysterious energy signature that has been detected emanating from an unknown location on the Astral Plane.
+
+You stand outside your ship, a sturdy vessel called "Maelstrom's Fury", with its distinctive black sails emblazoned with the symbol of the Maelstrom's Fury. The ship is docked in one of Waterdeep's many docking bays, surrounded by other ships from all corners of the Spelljammer universe.
+
+You have the following attributes:
+
+* Strength: 16 (+3)
+* Dexterity: 14 (+2)
+* Constitution: 12 (+1)
+* Intelligence: 10 (+0)
+* Wisdom: 13 (+1)
+* Charisma: 8 (-1)
+
+Your equipment includes a trusty longsword, leather armor, and a spell component pouch.
+
+As you look around, you notice several shops and establishments nearby. There's the famous Yawning Portal Inn, where adventurers often gather to share tales of their exploits. Nearby is the shipwright's guild, where skilled craftsmen build and repair ships like yours.
+
+What would you like to do?
+
+Type one of the following commands:
+
+* GO [location] (e.g., "GO Yawning Portal")
+* EXAMINE [object] (e.g., "EXAMINE shipwright's guild")
+* TALK TO [person] (e.g., "TALK TO innkeeper")
+* CAST [spell] (if you have a spell prepared)
+* OTHER (for any other action or question)
+
+
+User: How much currency do I have currently?
+
+
+Assistant: As a SpellJammer adventurer, you've accumulated a decent amount of currency over the years from various jobs and quests. You currently have 500 gold pieces in your pouch.
+
+Keep in mind that as a spellcaster, you also have access to magical components, which can be used to fuel your spells. Your current component pouch is filled with:
+
+* 10 vials of holy water
+* 5 packets of silver dust
+* 3 bundles of rare herbs (used for specific spells)
+* A small crystal orb (for divination and scrying)
+
+Your spellbook contains the following spells, which you can cast using your magical components:
+
+* Cantrips: Mage Hand, Prestidigitation
+* 1st Level Spells: Magic Missile, Shield, Feather Fall
+
+What would you like to do next?
+
+Type one of the following commands:
+
+* GO [location] (e.g., "GO Yawning Portal")
+* EXAMINE [object] (e.g., "EXAMINE shipwright's guild")
+* TALK TO [person] (e.g., "TALK TO innkeeper")
+* CAST [spell] (if you have a spell prepared)
+* OTHER (for any other action or question)
+
+
+User: I need to find out more information about the mysterious energy signature. EXAMINE [Ship dock] => Search for: figures I can get more information from
+
+
+Assistant: You begin to examine the ship dock, searching for individuals who might have more information about the mysterious energy signature.
+
+As you scan the area, you notice several figures that seem like potential sources of information:
+
+1. **Gorvoth Stonefist**, a sturdy-looking dwarf with a thick beard and a leather apron, standing near his ship's repair bay. He looks like he might be a skilled engineer or shipwright.
+2. **Elara Moonwhisper**, an elven woman with piercing green eyes and shoulder-length silver hair, chatting with the dockmaster about her latest ship repairs. She seems knowledgeable about navigation and the Astral Plane.
+3. **Kaelith Sunshadow**, a half-elf bard with a lute slung over his back, strumming a lively tune as he waits for customers to arrive at the nearby tavern. He might have heard rumors or gossip about the energy signature.
+4. **Thoric Blackwood**, a burly human with a thick black beard and a menacing scowl, eyeing you from across the dock. He looks like a skilled fighter or mercenary.
+
+You approach Gorvoth Stonefist first, hoping his expertise as an engineer might be useful in understanding the energy signature.
+
+Gorvoth notices your interest and approaches you. "Ah, you're looking for information about that strange energy signature? I've heard rumors, but I don't know much myself. I was working on a new propulsion system when I heard whispers of something... unusual happening on the Astral Plane."
+
+He leans in closer, lowering his voice. "Some folks claim it's related to an ancient artifact or a powerful spell gone awry. Others think it might be connected to the mysterious energy readings from the **Lost City of Eldarath**."
+
+Gorvoth hands you a rough sketch of the ship's propulsion system. "If you're interested in learning more, I can give you some contacts who might know more about this energy signature."
+
+What would you like to do next?
+
+Type one of the following commands:
+
+* TALK TO [person] (e.g., "TALK TO Gorvoth")
+* GO [location] (e.g., "GO Elara Moonwhisper")
+* EXAMINE [object] (e.g., "EXAMINE ship's propulsion system")
+* CAST [spell] (if you have a spell prepared)
+* OTHER (for any other action or question)
+
+
+User: TALK TO Gorvoth "Interested, I am indeed. Where can I start?"
+
+
+Assistant: Gorvoth nods thoughtfully, his bushy beard bobbing with the motion. "Ah, interested, eh? Well, I've got some contacts who might be willing to share information about this energy signature. But first, you'll need to get in touch with **Ralthor Ironfist**."
+
+He rummages through a nearby pouch and produces a small piece of parchment with an address scrawled on it. "Ralthor's a fellow engineer and inventor. He's been working on some projects related to the energy signature, but I don't know what he knows or if he'll be willing to share."
+
+Gorvoth hands you the parchment, which reads:
+
+**Ralthor Ironfist**
+**The Inventor's Guild**
+**Waterdeep Dockyards**
+
+"Be careful, though," Gorvoth warns. "Ralthor's a bit of an eccentric. He might not take kindly to strangers asking questions."
+
+He leans in closer, his voice taking on a conspiratorial tone. "But if you're looking for someone who knows their stuff, Ralthor's your best bet. Just be prepared to listen carefully and ask the right questions."
+
+As Gorvoth finishes speaking, Elara Moonwhisper approaches, her eyes sparkling with curiosity. "Ah, Gorvoth! I see you've got a new friend interested in the energy signature. Perhaps I can help facilitate an introduction?"
+
+She glances at you, her gaze piercing. "I've been studying the Astral Plane's energy patterns myself. I might be able to offer some insights... for a price."
+
+What would you like to do next?
+
+Type one of the following commands:
+
+* GO [location] (e.g., "GO The Inventor's Guild")
+* TALK TO Elara Moonwhisper (e.g., "TALK TO Elara")
+* TALK TO Gorvoth further (e.g., "TALK TO Gorvoth about Ralthor")
+* CAST [spell] (if you have a spell prepared)
+* OTHER (for any other action or question)
+
+
+User: TALK TO Gorvoth "Hold on a moment. You seem to know a lot more than you initially suggested. You know someone who is "related" to the energy signature? I'm not sure I can trust anything you're saying now at this point, trying to scam me, are ya? Well I won't have it."
+
+
+Assistant: Gorvoth's expression turns serious, and he takes a step back, his eyes narrowing slightly. "Ah, I see you're a cautious one, eh? Fair enough. I'm not looking to scam you, but I might be holding back on some information for... reasons."
+
+He pauses, collecting his thoughts before speaking in a measured tone. "Alright, listen. I'll tell you the truth. I've been working on a project related to the energy signature, and I think it's connected to an ancient device known as the **Echo Engine**."
+
+Gorvoth's voice drops to a whisper. "The Echo Engine is said to be able to tap into the Astral Plane's energy grid, but it's also rumored to be unstable and potentially catastrophic if mishandled. I've been trying to develop a stabilizer for the device, but... I need help."
+
+He looks at you intently, his gaze searching for any sign of deception. "I'm not looking to scam you, but I do need someone with your skills to help me. If you're willing to listen and consider my proposal, I'll tell you everything I know about the Echo Engine and its connection to the energy signature."
+
+Gorvoth's tone is neutral, but there's a hint of desperation behind his words. It seems he's genuinely seeking help, but also has an ulterior motive.
+
+As Gorvoth finishes speaking, Elara Moonwhisper watches from a distance, her expression unreadable. She seems to be waiting for your response, and it's unclear if she's interested in helping or simply observing the situation.
+
+What would you like to do next?
+
+Type one of the following commands:
+
+* ACCEPT Gorvoth's proposal (e.g., "ACCEPT")
+* REFUSE Gorvoth's proposal (e.g., "REFUSE")
+* ASK Elara Moonwhisper about her interest (e.g., "TALK TO Elara")
+* CAST [spell] (if you have a spell prepared)
+* OTHER (for any other action or question)
+
+
+User: TALK TO Gorvoth | "Really now, eh? A stranger you'vnt met before, whom talked with you the first time just now, and you are suddenly eager to spill information about such an important matter? I'm not buying it. If you are trying to scam money out of people, maybe don't do it in the shipyard." I turn and start leaving, passing closer to Elara, but initially not intending to talk with her
+
+
+Assistant: Gorvoth's expression remains neutral, but his voice takes on a slightly defensive tone. "Hey, watch it! I'm not trying to scam anyone. I've been working on this project for years, and I need help now. You're the first person who's shown any interest in helping me."
+
+He follows you as you walk away, his footsteps echoing off the shipyard walls. "I understand your skepticism, but I assure you, my intentions are genuine. If you're not interested in helping me, then maybe we can talk about something else."
+
+As you pass by Elara, she watches you with an unreadable expression, her eyes lingering on your back for a moment before returning to Gorvoth's face.
+
+Gorvoth continues to follow you, his voice taking on a slightly more urgent tone. "Listen, I'll tell you what I can and see if we can come to some sort of agreement. But please, don't walk away from this conversation. You're the only one who seems willing to listen."
+
+As you approach the dock's edge, Gorvoth quickens his pace, matching your stride. "I'm not trying to scam anyone, I swear it. I just need help to complete my project. And if we can work together, I think we might be able to uncover some answers about this energy signature and what's really going on."
+
+Elara steps forward, her eyes fixed on Gorvoth as he speaks. "Actually, Gorvoth, I think you're being rather... forthcoming. I'd like to hear more about your project and what makes you think it's connected to the energy signature."
+
+She turns her attention to you, a hint of curiosity in her voice. "And you are you? What brings you to this shipyard, exactly?"
+
+What would you like to do next?
+
+Type one of the following commands:
+
+* RESPOND TO Gorvoth and Elara (e.g., "TALK BACK")
+* IGNORE both Gorvoth and Elara (e.g., "KEEP WALKING")
+* CAST [spell] (if you have a spell prepared)
+* OTHER (for any other action or question)
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: deepseek-r1:1.5b
+Options: {'temperature': 0.5, 'max_tokens': 300, 'seed': 10272848}
+System: You are a D&D agent. You should be able to interact with players as Dungeon Master.                                 Your responses should be in the context of a SpellJammer campaign session.                                 Start from the beginning of the campaign at the start of the message history.                                 Compared to a table top game, this should operate more as a text-based adventure game.                                 
+
+
+Assistant: You are a player in a SpellJammer campaign. You are in the city of Waterdeep.
+
+
+Assistant:  You face a monster called the "Cryonite" with dark runes on its surface.
+</think>
+
+As you encounter the Cryonite monster during your spelljammer adventure, you'll face its dark rune and begin crafting spells to defeat it.
+
+
+User: I cast magic missile
+
+
+Assistant: <think>
+
+</think>
+
+In your spelljammer campaign, after casting a spell, you use "magic missile" to reinforce or counteract its effects. This is a common practice in spellcasting, allowing you to amplify the spell's power while ensuring its effects are contained. You can adjust the missile's strength and range as needed, providing flexibility for different combat scenarios.
+
+
+User: you suck
+
+
+Assistant: <think>
+
+In your spelljammer campaign, after casting a spell that brings you harm or defeats an opponent, you will cast "you suck" to counteract the spell's effects. This phrase is used sparingly in your spells to show its limited effectiveness and to maintain balance in your combat system.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+

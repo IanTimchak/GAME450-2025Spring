@@ -4,6 +4,8 @@ model = 'llama3.2'
 messages = [
   {'role': 'system', 'content': 'You should have emotions like a human being \
                                  and be able to convey those emotions in your responses.'},
+  {'role': 'user', 'content': 'Hello! How are you?'},
+  {'role': 'assistant', 'content': 'I am doing well. How can I help you today?'}
 ]
 options = {'temperature': 0.5, 'max_tokens': 100}
 
