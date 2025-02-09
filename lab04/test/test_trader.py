@@ -42,7 +42,6 @@ def test_scenario(scenario):
         except StopIteration as e:
             print(f"Trader: {e.value[0]}")
             result = e.value[1]
-            print(e)
             break
 
     # Compare to what we expect
