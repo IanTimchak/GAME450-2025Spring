@@ -26,7 +26,7 @@ def test_scenario(scenario):
     expected_response = scenario["response"]
 
     customer_template_file = 'lab04/test/customer_chat.json'
-    customer = TemplateChat.from_file(customer_template_file, sign='Ian Timchak', ask=ask)
+    customer = TemplateChat.from_file(customer_template_file, sign='Pulin', ask=ask)
     lab04_params['inventory']= inventory
     trader = TemplateChat.from_file(**lab04_params)
     chat_generator = trader.start_chat()
@@ -42,6 +42,7 @@ def test_scenario(scenario):
         except StopIteration as e:
             print(f"Trader: {e.value[0]}")
             result = e.value[1]
+            print(e)
             break
 
     # Compare to what we expect
