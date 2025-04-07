@@ -1,6 +1,6 @@
 from base import Player
 
-player = Player("Dudley")
+player = Player("Goredawn the Gladiator")
 
 player.connect()
 while True:
